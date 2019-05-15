@@ -12,7 +12,7 @@
 	color: #FFFFFF;
 }
 .hero {
-	background-image: url(images/paintwave.jpg);
+	background-image: url(paintwave.jpg);
 	padding-bottom: 200px;
 	text-align: center;
 	font-family: inconsolata;
@@ -47,7 +47,7 @@
 	margin-top: 100px;
 }
 .col-2 {
-	background-image: url(images/goldrush.jpg);
+	background-image: url(goldrush.jpg);
 	height: 655px;
 	width: 50%;
 	background-position: center center;
